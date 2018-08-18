@@ -74,16 +74,11 @@ class Slideshow extends React.Component {
 
 const styles = StyleSheet.create({
   wrapper: {
-    // flexDirection: 'row',
-    // alignItems: 'flex-end',
     justifyContent: 'flex-end',
     alignItems: 'center',
     height: 600,
     width: 500,
     paddingBottom: 10,
-    // borderColor: 'blue',
-    // borderRadius: 5,
-    // borderWidth: 2,
   },
   controls: {
     backgroundColor: 'rgba(255, 255, 255, 0.75)',
