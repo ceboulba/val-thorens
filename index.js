@@ -92,7 +92,7 @@ const styles = StyleSheet.create({
     borderWidth: 1,
   },
   title: {
-    color: '#777',
+    color: '#fff',
     textAlign: 'left',
     fontSize: 30,
     fontWeight: 'normal',
